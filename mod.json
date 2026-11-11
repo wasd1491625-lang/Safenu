@@ -1,0 +1,22 @@
+{
+	"geode": "4.0.0",
+	"gd": {
+		"win": "*",
+		"android": "*",
+		"mac": "*",
+		"ios": "*"
+	},
+	"version": "v1.0.0",
+	"id": "yourname.safenu",
+	"name": "safenu",
+	"developer": "yourname",
+	"description": "A clean mod menu with only safe, non-cheating options.",
+	"settings": {
+		"show-fps": {
+			"type": "bool",
+			"name": "Show FPS Counter",
+			"description": "Shows the FPS/debug stats overlay.",
+			"default": false
+		}
+	}
+}
